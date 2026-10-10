@@ -1,5 +1,9 @@
 # SiteGuardly Platform
 
+[![Portfolio check](https://github.com/SiteGuardly/siteguardly-platform-case-study/actions/workflows/portfolio-check.yml/badge.svg)](https://github.com/SiteGuardly/siteguardly-platform-case-study/actions/workflows/portfolio-check.yml)
+![WordPress](https://img.shields.io/badge/WordPress-custom%20platform-21759B?logo=wordpress&logoColor=white)
+![Security](https://img.shields.io/badge/focus-security%20%26%20quality-31E6BB)
+
 An engineering case study of a custom WordPress-based website quality, security and SEO platform developed by SiteGuardly in the Netherlands.
 
 > This repository documents the architecture and engineering work. The production source code, security rules and customer data remain private.
@@ -76,4 +80,14 @@ SiteGuardly designed and developed the product architecture, WordPress plugin, c
 ## Availability
 
 This case study demonstrates experience relevant to custom WordPress platforms, plugin development, API integrations, website security, technical SEO, reporting dashboards and long-term product development.
+
+## Evidence and maintenance
+
+The public documentation is checked automatically for missing local references and accidental secret-like assignments. Material portfolio updates are recorded in the [changelog](CHANGELOG.md) and versioned with GitHub releases.
+
+## Related work
+
+- [ETF AI Bot case study](https://github.com/SiteGuardly/etf-ai-bot-case-study)
+- [Smart Home Operations Dashboard](https://github.com/SiteGuardly/smart-home-dashboard-case-study)
+- [Public WordPress workflow adapter demo](https://github.com/SiteGuardly/wordpress-workflow-adapter-demo)
 
